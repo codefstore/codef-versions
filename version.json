@@ -1,0 +1,12 @@
+{
+  "codef-garages": {
+    "version": "1.0.0",
+    "title": "CodeF Garages",
+    "changelog": "Ilk kararli surum yayinlandi."
+  },
+  "codef-vehicle-images": {
+    "version": "1.0.0",
+    "title": "CodeF Vehicle Images",
+    "changelog": "Ilk kararli surum yayinlandi."
+  }
+}
